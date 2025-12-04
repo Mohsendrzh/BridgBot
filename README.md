@@ -36,8 +36,8 @@
 1. کلون کردن مخزن:
 
 ```
-git clone https://github.com/Mohsendrzh/BridgBot
-cd BridgBot
+git clone https://github.com/Mohsendrzh/BridgeBot
+cd BridgeBot
 ```
 
 
